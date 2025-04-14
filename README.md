@@ -1,0 +1,1 @@
+# Serverless-weather-info-fetcher
